@@ -3,8 +3,6 @@ Bypass Tiktok SSL pinning on Android devices. Latest version
 Tiktok v45.5.41
 
 **Contact for api :** [https://t.me/dacent87](https://t.me/dacent87)
-
-
 ## telegram: @dacent87
 
 # TikTokPrivateApi
